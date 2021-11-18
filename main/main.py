@@ -1,5 +1,7 @@
 import tkinter as tk
-import random
+import rando
+import numpy as np
+import print
 
 class Simulation():
     def __init__(self, root= None):
